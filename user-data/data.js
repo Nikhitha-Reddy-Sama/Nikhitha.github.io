@@ -1,6 +1,7 @@
 export const bio = [
   "Hello, I'm Nikhitha Reddy Sama!",
   "Java Full stack developer with 8+ years of experience building scalable, user-focused web applications.",
+  "I design and build web apps and microservices using React/Angular on the front end and Spring Boot on the back end to solve real-world problems. I’ve delivered analytics portals, financial messaging systems, clinical workflow tools, e-commerce platforms, and multitenant CMS solutions, always aiming for reliable, scalable, and easy-to-use software"
   "Skilled in Angular, TypeScript, and performance optimization, I aim to leverage my expertise in delivering innovative solutions that drive measurable business outcomes.",
   "Passionate about mentoring, teamwork, and continuous improvement in engineering processes.",
 ];
